@@ -31,7 +31,7 @@ This project is intentionally minimal and educational, focusing on file-based pe
 Clone the repository and navigate into it:
 
 ```bash
-git clone https://github.com/your-username/todo-cli-app.git
+git clone https://github.com/Ahmed-Sherbeny/todo-cli-app.git
 cd todo-cli-app
 ```
 
@@ -58,36 +58,43 @@ After running the command, type any of the supported commands below and press **
 ## Commands
 
 ### Add a task
+
 ```bash
 add Buy groceries
 ```
 
 ### Update a task name
+
 ```bash
 update 3 Finish homework
 ```
 
 ### Delete a task
+
 ```bash
 delete 2
 ```
 
 ### Mark task as in progress
+
 ```bash
 mark-in-progress 4
 ```
 
 ### Mark task as done
+
 ```bash
 mark-done 1
 ```
 
 ### List all tasks
+
 ```bash
 list
 ```
 
 ### List tasks by status
+
 ```bash
 list todo
 list in-progress
@@ -135,6 +142,7 @@ Tasks are stored in `apptasks.json` using the following structure:
 > **This project uses ES Modules (ESM), not CommonJS.**
 
 This means:
+
 - `"type": "module"` is set in `package.json`
 - `import` / `export` syntax is used
 - `require()` and `module.exports` are **not supported**
