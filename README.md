@@ -26,6 +26,10 @@ This project is intentionally minimal and educational, focusing on file-based pe
 
 ---
 
+## Repository link
+https://github.com/Ahmed-Sherbeny/CLI-todo-app
+---
+
 ## Installation
 
 Clone the repository and navigate into it:
