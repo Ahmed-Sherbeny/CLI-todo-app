@@ -26,9 +26,9 @@ This project is intentionally minimal and educational, focusing on file-based pe
 
 ---
 
-## Repository link
+## Project URL for 'roadmap.sh' website
 
-## https://github.com/Ahmed-Sherbeny/CLI-todo-app
+## https://roadmap.sh/projects/task-tracker
 
 ## Installation
 
