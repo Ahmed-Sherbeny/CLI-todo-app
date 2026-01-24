@@ -27,8 +27,8 @@ This project is intentionally minimal and educational, focusing on file-based pe
 ---
 
 ## Repository link
-https://github.com/Ahmed-Sherbeny/CLI-todo-app
----
+
+## https://github.com/Ahmed-Sherbeny/CLI-todo-app
 
 ## Installation
 
@@ -104,6 +104,9 @@ list todo
 list in-progress
 list done
 ```
+
+> [!NOTE]
+> The numbers in the commands above refer to task IDs.
 
 ---
 
